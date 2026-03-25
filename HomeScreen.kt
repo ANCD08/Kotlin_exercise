@@ -327,4 +327,4 @@ private fun HomeBottomBar(onHistory: () -> Unit, onSettings: () -> Unit) {
             onClick = onSettings
         )
     }
-}
+}## 
